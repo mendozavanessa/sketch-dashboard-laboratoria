@@ -11,4 +11,4 @@ En el dashboard, los usuarios mencionados pueden ver rápidamente estadísticas 
 ### Sketch de dashboard de Laboratoria
 Hice una pequeña entrevista a un usuario(yedai alejandra) que utilizara esta herramienta para tener en cuenta cuales eran sus necesidades, deseos y metas; de acuerdo aello plasme el sketch.
 
-![Texto alternativo](../assets/img/sketch2.jpeg)
+![Texto alternativo](assets/img/sketch2.jpeg)
