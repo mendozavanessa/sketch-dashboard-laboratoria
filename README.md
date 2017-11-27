@@ -9,6 +9,6 @@ En el dashboard, los usuarios mencionados pueden ver rápidamente estadísticas 
 + Promedio de notas técnicas
 
 ### Sketch de dashboard de Laboratoria
-Hice una pequeña entrevista a un usuario(yedai alejandra) que utilizara esta herramienta para tener en cuenta cuales eran sus necesidades, deseos y metas; de acuerdo aello plasme el sketch.
+Hice una pequeña entrevista a un usuario(jedai alejandra) que utilizara esta herramienta para tener en cuenta cuales eran sus necesidades, deseos y metas; de acuerdo a ello plasme el sketch.
 
 ![Texto alternativo](assets/img/sketch2.jpeg)
